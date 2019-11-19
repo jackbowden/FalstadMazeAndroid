@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aún Otra Aplicación de Laberinto</string>
+    <string name="title_screen_difficulty">Dificultad</string>
+    <string name="title_screen_maze_algo">Algoritmo de laberinto</string>
+    <string name="title_screen_driver">Conductor</string>
+    <string name="title_screen_start">Comenzar</string>
+    <string name="generating_screen_message">Generando laberinto...</string>
+    <string name="generating_screen_cancel">Cancelar</string>
+    <string name="maze_screen_toggle_whole_map">Alternar todo el mapa</string>
+    <string name="maze_screen_toggle_solution">Alternar solución</string>
+    <string name="end_screen_victory">Feliciones\\nlo Hizo</string>
+    <string name="end_screen_loss">Mierda\\nmurió</string>
+    <string name="end_screen_back">Atrás al principio</string>
+    <string name="end_screen_battery">Nivel de bateria restante</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="temp_maze_finish_flop">Terminar muriendo</string>
+    <string name="temp_maze_finish_success">Terminar con éxito</string>
+    <string name="maze_start">Comenzar</string>
+    <string name="title_screen_load_maze">Cargar laberinto anterior</string>
+    <string name="title_screen_new_maze">Crear laberinto nuevo</string>
+    <string name="maze_pause">Pausar</string>
+    <string name="maze_quit_confirmation">¿Está Ud. seguro de que quiere ir?</string>
+    <string name="maze_screen_quit_game">Salir del juego</string>
+    <string name="maze_screen_toggle_visited_portions">Alternar partes visitadas del mapa</string>
+    <string name="end_screen_path_length">Longitud de la trayectora</string>
+    <string name="end_screen_default">¡Juego terminado!</string>
+</resources>

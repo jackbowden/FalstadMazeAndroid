@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noch Eine Labyrinthapp</string>
+    <string name="title_screen_difficulty">Schwierigkeit</string>
+    <string name="title_screen_maze_algo">Labyrinthalgorithmus</string>
+    <string name="title_screen_driver">Fahrer</string>
+    <string name="title_screen_new_maze">Neues Labyrinth erzeugen</string>
+    <string name="title_screen_load_maze">Vorheriges Labyrinth laden</string>
+    <string name="title_screen_start">Anfangen</string>
+    <string name="generating_screen_message">Labyrinth wird erzeugt...</string>
+    <string name="generating_screen_cancel">Abbrechen</string>
+    <string name="maze_screen_toggle_visited_portions">Besuchte Teile der Karte anzeigen ein / aus</string>
+    <string name="maze_screen_toggle_whole_map">Ganze Karte anzeigen ein / aus</string>
+    <string name="maze_screen_toggle_solution">Lösung anzeigen ein / aus</string>
+    <string name="maze_screen_quit_game">Spiel beenden</string>
+    <string name="maze_quit_confirmation">Bist du sicher, dass du das Spiel abbrechen möchtest?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="maze_start">Anfangen</string>
+    <string name="maze_pause">Pausieren</string>
+    <string name="temp_maze_finish_success">Beenden / gewinnen</string>
+    <string name="temp_maze_finish_flop">Beenden / verlieren</string>
+    <string name="end_screen_default">Spiel beendet!</string>
+    <string name="end_screen_victory">Juchu!\ndu hast gewonnen</string>
+    <string name="end_screen_loss">Ach!\ndu bist gestorben</string>
+    <string name="end_screen_battery">Batterieladestand</string>
+    <string name="end_screen_path_length">Weglänge</string>
+    <string name="end_screen_back">Zurück zum Anfang</string>
+    <string name="settings_title">Einstellungen</string>
+    <string name="settings_language">Sprache</string>
+    <string name="ad">Werbung</string>
+    <string name="maze_screen_get_real_maze_app">Echte Labyrinthapp bekommen</string>
+</resources>

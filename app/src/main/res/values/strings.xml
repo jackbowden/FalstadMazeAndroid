@@ -1,0 +1,85 @@
+<resources>
+    <string name="intent_key_difficulty" translatable="false">difficulty</string>
+    <string name="intent_key_maze_algo" translatable="false">maze_algo</string>
+    <string name="intent_key_driver" translatable="false">driver</string>
+    <string name="is_manual_key" translatable="false">is_manual</string>
+    <string name="was_successful_key" translatable="false">was_successful</string>
+    <string name="driver_key" translatable="false">driver</string>
+
+    <string name="app_name">Yet Another Maze App</string>
+    <string name="title_screen_difficulty">Difficulty</string>
+    <string name="title_screen_maze_algo">Maze algorithm</string>
+    <string name="title_screen_driver">Driver</string>
+    <string name="title_screen_new_maze">Create new maze</string>
+    <string name="title_screen_load_maze">Load previous maze</string>
+    <string name="title_screen_start">Start</string>
+
+    <string name="generating_screen_message">Generating maze...</string>
+    <string name="generating_screen_cancel">Cancel</string>
+
+    <string name="maze_screen_toggle_visited_portions">Toggle visited portions of map</string>
+    <string name="maze_screen_toggle_whole_map">Toggle whole map</string>
+    <string name="maze_screen_toggle_solution">Toggle solution</string>
+    <string name="maze_screen_quit_game">Quit game</string>
+    <string name="maze_screen_get_real_maze_app">Get real maze app</string>
+    <string name="maze_quit_confirmation">Are you sure you want to quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="maze_start">Start</string>
+    <string name="maze_pause">Pause</string>
+
+    <string name="temp_maze_finish_success">Finish successfully</string>
+    <string name="temp_maze_finish_flop">Finish by dying</string>
+
+    <string name="end_screen_default">Game finished!</string>
+    <string name="end_screen_victory">Congration\nyou Done it</string>
+    <string name="end_screen_loss">Aw shucks\nyou Died</string>
+    <string name="end_screen_battery">Remaining battery level</string>
+    <string name="end_screen_path_length">Path length</string>
+    <string name="end_screen_back">Back to start</string>
+
+    <string name="settings_title">Settings</string>
+    <string name="settings_language">Language</string>
+
+    <string name="ad">Ad</string>
+
+    <string-array name="title_screen_difficulty_list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="title_screen_maze_algo_list">
+        <item>Depth-first search</item>
+        <item>Prim's algorithm</item>
+        <item>Eller's algorithm</item>
+    </string-array>
+
+    <string-array name="title_screen_driver_list">
+        <item>Manual play</item>
+        <item>Wizard</item>
+        <item>Wall follower</item>
+        <item>Pledge's algorithm</item>
+        <item>Explorer</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Deutsch</item>
+        <item>español</item>
+        <item>Polski</item>
+    </string-array>
+</resources>

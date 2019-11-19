@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chris nie umie mówić po polsku</string>
+    <string name="title_screen_difficulty">Trudność</string>
+    <string name="title_screen_maze_algo">"Algorytm labirynt "</string>
+    <string name="title_screen_driver">"Kierowca "</string>
+    <string name="title_screen_new_maze">"Utwórz nowy labirynt "</string>
+    <string name="title_screen_load_maze">"Załaduj poprzedni labirynt "</string>
+    <string name="title_screen_start">"Początek "</string>
+    <string name="generating_screen_message">"Generowanie labiryntu ... "</string>
+    <string name="generating_screen_cancel">"Anuluj "</string>
+    <string name="maze_screen_toggle_visited_portions">"Przełączaj odwiedzane fragmenty mapy "</string>
+    <string name="maze_screen_toggle_whole_map">"Przełącz całą mapę "</string>
+    <string name="maze_screen_toggle_solution">"Przełącz rozwiązanie "</string>
+    <string name="maze_screen_quit_game">"Zakończyć grę "</string>
+    <string name="maze_quit_confirmation">"Czy na pewno chcesz zakończyć? "</string>
+    <string name="yes">Tak</string>
+    <string name="no">Nie</string>
+    <string name="maze_start">"Początek "</string>
+    <string name="maze_pause">Pauza</string>
+    <string name="temp_maze_finish_success">"Zakończ pomyślnie "</string>
+    <string name="temp_maze_finish_flop">"Zakończ, umierając "</string>
+    <string name="end_screen_default">"Gra się skończyła! "</string>
+    <string name="end_screen_battery">"Pozostały poziom naładowania baterii "</string>
+    <string name="end_screen_path_length">Długość ścieżki</string>
+    <string name="end_screen_back">Powrót do początku</string>
+    <string name="settings_title">Ustawienia</string>
+    <string name="settings_language">Język</string>
+    <string name="ad">Ogłoszenie</string>
+</resources>

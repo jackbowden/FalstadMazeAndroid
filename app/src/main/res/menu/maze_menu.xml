@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_show_visited_portions"
+        android:orderInCategory="100"
+        android:title="@string/maze_screen_toggle_visited_portions"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_whole_map"
+        android:orderInCategory="100"
+        android:title="@string/maze_screen_toggle_whole_map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_show_solution"
+        android:orderInCategory="100"
+        android:title="@string/maze_screen_toggle_solution"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_app_store_for_maze"
+        android:orderInCategory="100"
+        android:title="@string/maze_screen_get_real_maze_app"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_quit_game"
+        android:orderInCategory="100"
+        android:title="@string/maze_screen_quit_game"
+        app:showAsAction="never" />
+</menu>
